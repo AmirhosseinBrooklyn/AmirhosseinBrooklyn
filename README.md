@@ -12,6 +12,13 @@
 <img src="https://img.shields.io/github/followers/AmirhosseinBrooklyn?style=for-the-badge" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/AmirhosseinBrooklyn?affiliations=OWNER&style=for-the-badge" alt="GitHub stars" />
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirhosseinBrooklyn/AmirhosseinBrooklyn/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AmirhosseinBrooklyn/AmirhosseinBrooklyn/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
 </div>
 
 ---
