@@ -1,0 +1,62 @@
+name: Refresh profile statistics
+
+on:
+  schedule:
+    - cron: "47 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-stats.yml"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Check out card renderer
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          repository: pedrocatalao/github-cool-readme
+          ref: 909e532bf5d2847b26d156b91c0d086e6e7781ae
+          path: .profile-renderer
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: 24
+
+      - name: Render badges and charts
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/update_metrics.py --summary "$RUNNER_TEMP/profile-summary.json"
+          node scripts/render-overview.mjs "$RUNNER_TEMP/profile-summary.json"
+
+      - name: Publish updated SVGs
+        run: |
+          git add -- assets/metrics/
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile statistics"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -1,152 +1,130 @@
+<!-- Introduction -->
+
 <div align="center">
 
 # 👋 Hey, I'm Amirhossein
 
 ### But most people call me **Brooklyn** 🗽
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=PHP+Developer;Web+Architect;Product+Thinker;Prompt+Engineer;Writer+and+Editor;Content+Strategist;Team+Leader;Lifelong+Learner" />
+<img src="assets/typing.svg" alt="PHP Developer, Web Architect, Product Thinker, Prompt Engineer, Writer and Editor, Content Strategist, Team Leader, Lifelong Learner" width="800">
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AmirhosseinBrooklyn&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AmirhosseinBrooklyn?style=for-the-badge" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/AmirhosseinBrooklyn?affiliations=OWNER&style=for-the-badge" alt="GitHub stars" />
-
-<br>
+<p>
+  <a href="https://github.com/AmirhosseinBrooklyn?tab=followers"><img src="assets/metrics/followers-pill.svg" alt="GitHub followers"></a>
+  <img src="assets/metrics/stars-pill.svg" alt="GitHub stars across owned repositories">
+  <img src="assets/metrics/views-pill.svg" alt="Profile views">
+  <img src="assets/php-pill.svg" alt="PHP Developer">
+  <img src="https://komarev.com/ghpvc/?username=AmirhosseinBrooklyn&amp;style=pixel" width="1" height="1" alt="">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmirhosseinBrooklyn/AmirhosseinBrooklyn/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AmirhosseinBrooklyn/AmirhosseinBrooklyn/output/pacman-contribution-graph.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/AmirhosseinBrooklyn/AmirhosseinBrooklyn/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
 </picture>
 
 </div>
 
 ---
 
+<!-- About -->
+
 ## 🧠 Who Am I?
 
-I'm a Computer Engineering student specializing in **Information Technology**.
+I'm a **Computer Engineering student specializing in Information Technology**, with a focus on **PHP development, web experiences, and product thinking**.
 
-For years I've been building things with **PHP**, designing web experiences, solving technical problems, managing products, creating content, writing articles, leading teams, and occasionally turning impossible deadlines into successful launches.
+I build systems, shape ideas into useful products, and turn complex topics into clear content. My work also spans writing, editing, team coordination, and helping projects move from an idea to a launch.
 
-I enjoy creating systems that work, content that matters, and products people actually want to use.
+**Curiosity starts it. Craft makes it useful.**
 
-Some people collect hobbies.
+<!-- Toolkit -->
 
-I collect skills. 🚀
+## 🛠️ My Toolkit
 
----
+**Core stack** — backend, web, and the tools that tie them together.
 
-## ⚡ What I Do
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/core-icons-dark.svg">
+  <img src="assets/core-icons-light.svg" alt="PHP, Laravel, MySQL, JavaScript, HTML, CSS and Git" width="430">
+</picture></p>
 
-| Area | What I Do |
-|------|-----------|
-| 💻 Development | Backend Development, Web Development, API Integration |
-| 🤖 Automation | Telegram Bots, Workflow Automation, Task Systems |
-| 📦 Product | Product Management, Project Coordination, Delivery Planning |
-| 🎯 Strategy | Prompt Engineering, Content Strategy, Social Media Planning |
-| ✍️ Writing | Technical Writing, Blogging, Editing, Proofreading |
-| 👥 Leadership | Team Management, Mentoring, Idea Development |
-| 🎙️ Creative | Voice Acting, Narration, Dubbing |
+**Backend & databases**
 
----
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/backend-icons-dark.svg">
+  <img src="assets/backend-icons-light.svg" alt="Symfony, Composer, Twig, PostgreSQL, SQLite, MariaDB, MongoDB and Oracle" width="490">
+</picture></p>
 
-## 🛠️ Tech Stack
+**Platforms & languages**
 
-### Core
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/platform-icons-dark.svg">
+  <img src="assets/platform-icons-light.svg" alt="WordPress, Kotlin, Gradle, Java, Python and C sharp" width="365">
+</picture></p>
 
-### Backend & PHP Ecosystem
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Guzzle](https://img.shields.io/badge/Guzzle-6C5CE7?style=for-the-badge)
-![Monolog](https://img.shields.io/badge/Monolog-FB542B?style=for-the-badge)
-![PHPMailer](https://img.shields.io/badge/PHPMailer-0A7EA4?style=for-the-badge)
-![Twig](https://img.shields.io/badge/Twig-BACF29?style=for-the-badge)
+<details>
+<summary><strong>Explore the full stack and foundations</strong></summary>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| Area | Tools and foundations |
+| :--- | :--- |
+| Backend & PHP | ![PHP](assets/toolkit/php.svg) ![Laravel](assets/toolkit/laravel.svg) ![Symfony](assets/toolkit/symfony.svg) ![Composer](assets/toolkit/composer.svg) ![Guzzle](assets/toolkit/guzzle.svg) ![Monolog](assets/toolkit/monolog.svg) ![PHPMailer](assets/toolkit/phpmailer.svg) ![Twig](assets/toolkit/twig.svg) |
+| Web | ![HTML5](assets/toolkit/html5.svg) ![CSS3](assets/toolkit/css3.svg) ![JavaScript](assets/toolkit/javascript.svg) ![SQL](assets/toolkit/sql.svg) ![Git](assets/toolkit/git.svg) |
+| Databases | ![MySQL](assets/toolkit/mysql.svg) ![MariaDB](assets/toolkit/mariadb.svg) ![PostgreSQL](assets/toolkit/postgresql.svg) ![SQLite](assets/toolkit/sqlite.svg) ![Oracle](assets/toolkit/oracle.svg) ![MongoDB](assets/toolkit/mongodb.svg) |
+| Platforms & mobile | ![WordPress](assets/toolkit/wordpress.svg) ![PrestaShop](assets/toolkit/prestashop.svg) ![OpenCart](assets/toolkit/opencart.svg) ![Hostinger](assets/toolkit/hostinger.svg) ![Kotlin](assets/toolkit/kotlin.svg) ![Gradle](assets/toolkit/gradle.svg) |
+| CS foundations | ![C#](assets/toolkit/c.svg) ![Java](assets/toolkit/java.svg) ![Python](assets/toolkit/python.svg) ![Data structures](assets/toolkit/data-structures.svg) ![Algorithms](assets/toolkit/algorithms.svg) ![Operating systems](assets/toolkit/operating-systems.svg) ![Computer networks](assets/toolkit/computer-networks.svg) ![OOP](assets/toolkit/oop.svg) ![Software engineering](assets/toolkit/software-engineering.svg) |
 
-### University / CS Foundations
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-1F2937?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-111827?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0F766E?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-7C3AED?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-2563EB?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0EA5E9?style=for-the-badge)
+</details>
 
-### CMS & Platforms
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge)
-![OpenCart](https://img.shields.io/badge/OpenCart-2AC2EF?style=for-the-badge)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
+<!-- Projects -->
 
----
+## 🚀 Projects & Experiments
 
-## 🎯 Beyond Coding
+[![Browse all repositories](assets/repositories-cta.svg)](https://github.com/AmirhosseinBrooklyn?tab=repositories)
 
-| Skill | Focus |
-|------|-------|
-| ✍️ Writing | Blogging, long-form writing, personal notes |
-| 📚 Editing | Editorial review, proofreading, polishing text |
-| 🎯 Prompt Engineering | Structured prompts, AI workflow design |
-| 📢 Content Strategy | Planned content for growth and monetization |
-| 📈 Social Media | Audience-focused publishing and consistency |
-| 🧩 Product Thinking | Idea shaping, prioritization, execution |
-| 👨‍💼 Project Supervision | Small-to-large project oversight |
-| 🎙️ Voice Work | Voice acting, narration, dubbing |
-| 🤝 Team Coordination | Communication, alignment, delivery |
-| 💡 Idea Validation | Turning rough ideas into real plans |
+## ✨ A Little More About My Work
 
----
+| I work on | What I bring |
+| :--- | :--- |
+| **Development & automation** | Backend systems, APIs, Telegram bots, and practical workflows |
+| **Product & delivery** | Idea validation, prioritization, coordination, and taking projects to launch |
+| **Writing & communication** | Prompt engineering, technical writing, editing, content strategy, and social media |
+| **People & creative work** | Team leadership, mentoring, voice acting, narration, and dubbing |
 
-## 🌎 Find Me Around The Internet
+<!-- Profile cards -->
+
+## 🎮 Behind the Profile
 
 <p align="center">
-  <a href="https://github.com/AmirhosseinBrooklyn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://t.me/BrooklynThoughts">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://twitter.com/BrooklynNewGen">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+<img src="assets/metrics/overview.svg" alt="Animated overview of public repositories and stars" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mindset-dark.svg">
+  <img src="assets/mindset-light.svg" alt="Build, refine: code that works, words that connect, products with purpose" width="400">
+</picture>
 </p>
 
----
+<!-- Charts -->
 
-## 📚 Repositories
+## 📊 Code & Collaboration
 
-⭐ Explore my repositories here:
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics/languages-dark.svg">
+  <img src="assets/metrics/languages-light.svg" alt="Language shares by bytes of public non-fork repositories" width="400">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics/radar-dark.svg">
+  <img src="assets/metrics/radar-light.svg" alt="Radar of commits, issues, pull requests, reviews and public repositories" width="400">
+</picture>
+</p>
 
-➡️ **https://github.com/AmirhosseinBrooklyn?tab=repositories**
+<sub>Statistics use public data. Language shares are based on code size. The radar covers the past 365 days, with the current public repository count shown separately.</sub>
 
----
+<!-- Contact -->
 
-## ☕ Fun Fact
+## 🌎 Let's Connect
 
-```text
-I started learning because I was curious.
+<p align="center">
+  <a href="https://t.me/BrooklynThoughts"><img src="assets/social-telegram.svg" alt="Telegram: BrooklynThoughts"></a>
+  <a href="https://twitter.com/BrooklynNewGen"><img src="assets/social-x.svg" alt="X: BrooklynNewGen"></a>
+  <a href="https://github.com/AmirhosseinBrooklyn"><img src="assets/social-github.svg" alt="GitHub: AmirhosseinBrooklyn"></a>
+</p>
 
-Then curiosity became a habit.
-
-Then the habit became a lifestyle.
-
-Now I accidentally learn new things
-even when I'm trying to relax.
-````
+<p align="center"><em>Some people collect hobbies. I collect skills.</em> 🚀</p>
